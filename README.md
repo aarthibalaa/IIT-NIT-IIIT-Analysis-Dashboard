@@ -57,4 +57,10 @@ IIT-NIT-IIIT Analysis Dashboard dashboard analyzes opening and closing ranks acr
 ---
 ## Demo
 
-file:///C:/Users/user/Downloads/IIT%20NIT%20IIIT%20analysis.mp4
+https://github.com/user-attachments/assets/f6555f87-da1e-4ee9-a8e7-d5b75d2bdabf
+
+
+
+
+
+
